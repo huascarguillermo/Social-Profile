@@ -1,0 +1,28 @@
+@import url("./reset.css");
+@import url("./global.css");
+
+body {
+    background-color: var(--black);
+    color: var(--white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+    font-size: 0.875rem;
+}
+
+/* main {
+} */
+
+section {
+    width: 20.438rem;
+    padding: 1.5rem;
+    background-color: var(--dark-grey);
+    border-radius: 0.75rem;
+}
+
+@media (min-width: 23.438rem) {
+    section {
+        width: 24rem;
+    }
+}

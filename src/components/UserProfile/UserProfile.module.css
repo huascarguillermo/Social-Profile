@@ -1,0 +1,40 @@
+.headerWrapper {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.profileImage {
+    width: 5.5rem;
+    height: 5.5rem;
+    border-radius: 50%;
+    overflow: hidden;
+    /* margin-bottom: 1.5rem; */
+}
+
+.profileInfo {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    gap: 0.25rem;
+}
+
+.profileName {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.profileCity {
+    color: var(--neon-green);
+    font-size: 0.875rem;
+    font-weight: 600;
+    /* margin-bottom: 1.5rem; */
+}
+
+.profileBio {
+    font-size: 0.875rem;
+    font-weight: 400;
+    /* margin-bottom: 1.5rem; */
+}

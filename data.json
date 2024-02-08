@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Jean Carlos",
+        "located": "Quebec, Canada",
+        "bio": "Front-end Guru and Wendy's husband",
+        "socialMedia": [
+            {
+                "name": "GitHub",
+                "link": "https://github.com/jeancarlosruiz"
+            },
+            {
+                "name": "FrontEnd Mentor",
+                "link": "https://github.com/jeancarlosruiz"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://github.com/jeancarlosruiz"
+            },
+            {
+                "name": "Twitter",
+                "link": "https://github.com/jeancarlosruiz"
+            },
+            {
+                "name": "Instagram",
+                "link": "https://github.com/jeancarlosruiz"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+:root {
+    --black: #141414;
+    --dark-grey: #1F1F1F;
+    --grey: #333333;
+    --white: #fff;
+    --neon-green: #C4F82A; 
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 400;
+    src: url("/public/fonts/Inter-Regular.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 600;
+    src: url("/public/fonts/Inter-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: Inter;
+    font-weight: 700;
+    src: url("/public/fonts/Inter-Bold.ttf");
+}
+
+
+
+
+/* 
+1- Responsive Design
+2- Tamano de las fuentes
+3- Font Weight
+4- Crear multiples componentes
+5- 
+*/
